@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working in Digiteer as a Mid-Level Systems Engineer with Focus on Training and Development.
 
-- 🌱 I learned coding on Avion School studying **HTML, CSS, Javascript, ReactJS, Ruby, Ruby on Rails**
-
 - 💬 Ask me about **Ruby on Rails**
 
 - 📫 How to reach me **raphaelpabicopadua@gmail.com**
